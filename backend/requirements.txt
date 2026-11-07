@@ -1,0 +1,8 @@
+fastapi>=0.104
+uvicorn[standard]>=0.24
+python-multipart>=0.0.6
+pydantic>=2.5
+pillow>=10.1
+numpy>=1.26
+# optional: TF-IDF + LogisticRegression model in app/simple_model.py
+scikit-learn>=1.3
