@@ -62,8 +62,8 @@ No API keys or external services are needed; everything runs offline.
 
 Author: Dias Ayazbay.
 
-## Қысқаша (KZ)
+## Кратко (RU)
 
-AI Inspector: мәтіннің, суреттің немесе видеоның жасанды интеллектпен жасалғанын бағалайтын қызмет.
-Backend FastAPI-да жазылған, эвристикалар мен шағын scikit-learn моделін қолданады. Frontend React-та жазылған.
-Docker Compose арқылы бір командамен іске қосылады, ешқандай API кілті қажет емес.
+AI Inspector — сервис, который оценивает, создан ли текст, изображение или видео искусственным интеллектом.
+Backend на FastAPI использует эвристики и небольшую модель scikit-learn, frontend — на React.
+Запускается одной командой через Docker Compose, API-ключи не нужны.
